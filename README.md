@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gopal</h1>
 
-<h3 align="center">I want to Become a Full Stack developer.</h3>
+<h3 align="center">I want to Become a MERN Stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-dev3&label=Profile%20views&color=brightgreen&style=flat" /> </p>
 
