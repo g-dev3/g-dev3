@@ -40,13 +40,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=g-dev3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 </p>
-[GitHub Profile Views Counter]: https://github.com/g-dev3/github-profile-views-counter
+[GitHub Profile Views Counter](https://github.com/g-dev3/github-profile-views-counter)
